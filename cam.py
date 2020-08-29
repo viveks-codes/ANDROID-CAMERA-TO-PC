@@ -3,7 +3,7 @@ import requests
 import cv2 
 import numpy as np 
 
-url = "your URL HERE!!!" + /shot.jpg" #
+url = "your URL HERE!!!" + "/shot.jpg" 
 
 while True:
     response = requests.get(url) #send GET request to URL
