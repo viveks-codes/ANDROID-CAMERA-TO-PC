@@ -1,8 +1,11 @@
 #follow Vivek_Codes for more intresting Tech memes and Projects
+
+# importing module
 import requests 
 import cv2 
 import numpy as np 
 
+# your URL
 url = "your URL HERE!!!" + "/shot.jpg" 
 
 while True:
